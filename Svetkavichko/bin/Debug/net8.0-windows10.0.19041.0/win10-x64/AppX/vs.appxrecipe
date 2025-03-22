@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-22T08:57:50.703</Modified>
+      <Modified>2025-03-22T09:45:51.770</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-22T08:41:50.514</Modified>
+      <Modified>2025-03-22T09:37:51.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.runtimeconfig.json">
       <PackagePath>Svetkavichko.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-22T08:41:49.894</Modified>
+      <Modified>2025-03-22T09:45:16.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.dll">
       <PackagePath>Svetkavichko.dll</PackagePath>
-      <Modified>2025-03-22T08:57:50.227</Modified>
+      <Modified>2025-03-22T09:45:51.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Svetkavichko.exe</PackagePath>
-      <Modified>2025-03-22T08:57:50.233</Modified>
+      <Modified>2025-03-22T09:45:51.443</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:19.814</Modified>
+      <Modified>2025-03-22T09:37:48.736</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:19.841</Modified>
+      <Modified>2025-03-22T09:37:48.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:19.884</Modified>
+      <Modified>2025-03-22T09:37:48.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:19.951</Modified>
+      <Modified>2025-03-22T09:37:48.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:20.189</Modified>
+      <Modified>2025-03-22T09:37:48.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -84,211 +84,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-03-22T08:41:21.816</Modified>
+      <Modified>2025-03-22T09:37:49.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.798</Modified>
+      <Modified>2025-03-22T09:37:49.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.794</Modified>
+      <Modified>2025-03-22T09:37:49.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.794</Modified>
+      <Modified>2025-03-22T09:37:49.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.794</Modified>
+      <Modified>2025-03-22T09:37:49.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.794</Modified>
+      <Modified>2025-03-22T09:37:49.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.808</Modified>
+      <Modified>2025-03-22T09:37:49.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.808</Modified>
+      <Modified>2025-03-22T09:37:49.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.808</Modified>
+      <Modified>2025-03-22T09:37:49.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.815</Modified>
+      <Modified>2025-03-22T09:37:49.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.815</Modified>
+      <Modified>2025-03-22T09:37:49.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.815</Modified>
+      <Modified>2025-03-22T09:37:49.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.814</Modified>
+      <Modified>2025-03-22T09:37:49.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.814</Modified>
+      <Modified>2025-03-22T09:37:49.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.814</Modified>
+      <Modified>2025-03-22T09:37:49.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.814</Modified>
+      <Modified>2025-03-22T09:37:49.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.809</Modified>
+      <Modified>2025-03-22T09:37:49.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.812</Modified>
+      <Modified>2025-03-22T09:37:49.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.812</Modified>
+      <Modified>2025-03-22T09:37:49.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.803</Modified>
+      <Modified>2025-03-22T09:37:49.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.802</Modified>
+      <Modified>2025-03-22T09:37:49.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.801</Modified>
+      <Modified>2025-03-22T09:37:49.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.801</Modified>
+      <Modified>2025-03-22T09:37:49.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.801</Modified>
+      <Modified>2025-03-22T09:37:49.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.805</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.803</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.803</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.803</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.803</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.806</Modified>
+      <Modified>2025-03-22T09:37:49.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.806</Modified>
+      <Modified>2025-03-22T09:37:49.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.806</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.805</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.805</Modified>
+      <Modified>2025-03-22T09:37:49.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.800</Modified>
+      <Modified>2025-03-22T09:37:49.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.800</Modified>
+      <Modified>2025-03-22T09:37:49.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.800</Modified>
+      <Modified>2025-03-22T09:37:49.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.798</Modified>
+      <Modified>2025-03-22T09:37:49.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.798</Modified>
+      <Modified>2025-03-22T09:37:49.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.818</Modified>
+      <Modified>2025-03-22T09:37:49.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.818</Modified>
+      <Modified>2025-03-22T09:37:49.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.816</Modified>
+      <Modified>2025-03-22T09:37:49.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.816</Modified>
+      <Modified>2025-03-22T09:37:49.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-22T08:41:21.816</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.deps.json">
-      <PackagePath>Svetkavichko.deps.json</PackagePath>
-      <Modified>2025-03-22T08:41:49.582</Modified>
+      <Modified>2025-03-22T09:37:49.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -297,6 +293,38 @@
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2024-10-14T22:26:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\dapper\2.1.66\lib\net8.0\Dapper.dll">
+      <PackagePath>Dapper.dll</PackagePath>
+      <Modified>2025-02-06T12:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.data.sqlite.core\8.0.11\lib\net8.0\Microsoft.Data.Sqlite.dll">
+      <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
+      <Modified>2024-10-21T20:28:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.entityframeworkcore\8.0.11\lib\net8.0\Microsoft.EntityFrameworkCore.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
+      <Modified>2024-10-21T20:29:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.entityframeworkcore.abstractions\8.0.11\lib\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
+      <Modified>2024-10-21T20:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.entityframeworkcore.relational\8.0.11\lib\net8.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+      <Modified>2024-10-21T20:29:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\8.0.11\lib\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Sqlite.dll</PackagePath>
+      <Modified>2024-10-21T20:30:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.extensions.caching.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.Caching.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
+      <Modified>2023-10-31T14:58:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.extensions.caching.memory\8.0.1\lib\net8.0\Microsoft.Extensions.Caching.Memory.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
+      <Modified>2024-09-16T23:10:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -313,6 +341,10 @@
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\8.0.2\lib\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
       <Modified>2024-09-16T23:09:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.extensions.dependencymodel\8.0.2\lib\net8.0\Microsoft.Extensions.DependencyModel.dll">
+      <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
+      <Modified>2024-09-16T23:09:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.extensions.logging\8.0.1\lib\net8.0\Microsoft.Extensions.Logging.dll">
       <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
@@ -429,6 +461,18 @@
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-08-01T22:37:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.1.6\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2023-08-23T18:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\sqlitepclraw.core\2.1.6\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2023-08-23T18:38:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.6\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2023-08-23T18:38:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.maui.controls.core\8.0.100\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
@@ -573,6 +617,282 @@
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.6\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2023-08-23T18:33:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.deps.json">
+      <PackagePath>Svetkavichko.deps.json</PackagePath>
+      <Modified>2025-03-22T09:45:16.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll">
+      <PackagePath>Humanizer.dll</PackagePath>
+      <Modified>2022-01-29T15:04:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.bcl.asyncinterfaces\6.0.0\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2021-10-22T23:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.dll">
+      <PackagePath>Microsoft.CodeAnalysis.dll</PackagePath>
+      <Modified>2023-02-09T19:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll">
+      <PackagePath>Microsoft.CodeAnalysis.CSharp.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <PackagePath>Microsoft.CodeAnalysis.CSharp.Workspaces.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll">
+      <PackagePath>Microsoft.CodeAnalysis.Workspaces.dll</PackagePath>
+      <Modified>2023-02-09T19:44:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.entityframeworkcore.design\8.0.11\lib\net8.0\Microsoft.EntityFrameworkCore.Design.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
+      <Modified>2024-10-21T20:29:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\mono.texttemplating\2.2.1\lib\netstandard2.0\Mono.TextTemplating.dll">
+      <PackagePath>Mono.TextTemplating.dll</PackagePath>
+      <Modified>2021-02-23T03:04:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\system.codedom\4.4.0\lib\netstandard2.0\System.CodeDom.dll">
+      <PackagePath>System.CodeDom.dll</PackagePath>
+      <Modified>2017-07-19T10:01:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\system.composition.attributedmodel\6.0.0\lib\net6.0\System.Composition.AttributedModel.dll">
+      <PackagePath>System.Composition.AttributedModel.dll</PackagePath>
+      <Modified>2021-10-22T23:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\system.composition.convention\6.0.0\lib\net6.0\System.Composition.Convention.dll">
+      <PackagePath>System.Composition.Convention.dll</PackagePath>
+      <Modified>2021-10-22T23:47:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\system.composition.hosting\6.0.0\lib\net6.0\System.Composition.Hosting.dll">
+      <PackagePath>System.Composition.Hosting.dll</PackagePath>
+      <Modified>2021-10-22T23:47:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\system.composition.runtime\6.0.0\lib\net6.0\System.Composition.Runtime.dll">
+      <PackagePath>System.Composition.Runtime.dll</PackagePath>
+      <Modified>2021-10-22T23:47:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\system.composition.typedparts\6.0.0\lib\net6.0\System.Composition.TypedParts.dll">
+      <PackagePath>System.Composition.TypedParts.dll</PackagePath>
+      <Modified>2021-10-22T23:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\system.io.pipelines\6.0.3\lib\net6.0\System.IO.Pipelines.dll">
+      <PackagePath>System.IO.Pipelines.dll</PackagePath>
+      <Modified>2022-04-13T17:49:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:54:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+      <Modified>2023-02-09T19:44:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
