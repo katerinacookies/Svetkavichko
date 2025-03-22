@@ -55,6 +55,9 @@
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Gridtile-8Ojnz.ttf">
+      <PackagePath>Gridtile-8Ojnz.ttf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
@@ -199,6 +202,12 @@
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\background.scale-100.png">
+      <PackagePath>background.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow.scale-100.png">
+      <PackagePath>bow.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -213,6 +222,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun.scale-100.png">
+      <PackagePath>sun.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\teddy.scale-100.png">
+      <PackagePath>teddy.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

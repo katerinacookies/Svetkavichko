@@ -47,3 +47,21 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Svetkavichko.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Svetkavichko/Svetkavichko/Views/AddChorePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Svetkavichko.Views.AddChorePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddChorePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddChorePage.xaml
+
+[D:/Svetkavichko/Svetkavichko/Views/ChorePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Svetkavichko.Views.ChorePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ChorePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ChorePage.xaml
+
+[D:/Svetkavichko/Svetkavichko/Views/MusicPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Svetkavichko.Views.MusicPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MusicPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MusicPage.xaml

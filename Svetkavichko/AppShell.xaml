@@ -4,6 +4,7 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:Svetkavichko"
+    xmlns:v="clr-namespace:Svetkavichko.Views"
     Shell.FlyoutBehavior="Disabled"
     Title="Svetkavichko">
 
@@ -11,5 +12,21 @@
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
+
+    <TabBar
+        >
+        <Tab Title="ChorePage"
+            Icon="homehouse.png">
+            <ShellContent ContentTemplate="{DataTemplate v:ChorePage}" Route="ChorePage"/>
+        </Tab>
+        <Tab Title="AddChorePage"
+            Icon="homehouse.png">
+            <ShellContent ContentTemplate="{DataTemplate v:AddChorePage}" Route="AddChorePage"/>
+        </Tab>
+        <Tab Title="MusicPage"
+            Icon="homehouse.png">
+            <ShellContent ContentTemplate="{DataTemplate v:MusicPage}" Route="MusicPage"/>
+        </Tab>
+    </TabBar>
 
 </Shell>

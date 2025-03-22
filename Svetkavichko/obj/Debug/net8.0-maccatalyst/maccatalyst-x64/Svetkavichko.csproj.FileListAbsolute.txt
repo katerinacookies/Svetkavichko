@@ -380,3 +380,8 @@ D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Svetkavichko.pdb
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Svetkavichko.genruntimeconfig.cache
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Svetkavichko.dll
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\bow.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\background.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\sun.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\teddy.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\Gridtile-8Ojnz.ttf

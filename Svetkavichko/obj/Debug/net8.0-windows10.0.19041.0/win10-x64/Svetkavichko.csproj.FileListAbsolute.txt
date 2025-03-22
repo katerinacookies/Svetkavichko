@@ -259,3 +259,8 @@ D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-H
 D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.sourcelink.json
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.genpublishdeps.cache
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\background.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\teddy.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Gridtile-8Ojnz.ttf

@@ -14,6 +14,6 @@ namespace Svetkavichko.Models
         [MaxLength(50)]
         public string Name { get; set; } = string.Empty;
         public bool IsDoneToday { get; set; } = false;
-        public DateOnly DateDone {  get; set; }
+        public DateTime DateDone {  get; set; }
     }
 }
