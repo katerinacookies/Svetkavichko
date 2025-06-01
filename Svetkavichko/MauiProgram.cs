@@ -19,6 +19,7 @@ namespace Svetkavichko
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                     fonts.AddFont("Gridtile-8Ojnz.ttf", "Gridtile");
+                    fonts.AddFont("RubikBubbles-Regular.ttf", "RubikBubbles");
                 });
 
             //vid
@@ -26,6 +27,7 @@ namespace Svetkavichko
             builder.Services.AddTransient<AddChorePage>();
             builder.Services.AddTransient<AddChoreViewModel>();
             builder.Services.AddTransient<ChorePage>();
+            builder.Services.AddTransient<ChoreViewModel>();
             builder.Services.AddTransient<MusicPage>();
             var dbContext = new SvetkavichkoDbContext();
             //dbContext.Database.EnsureDeleted();

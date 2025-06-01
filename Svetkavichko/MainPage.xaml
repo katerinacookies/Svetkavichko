@@ -2,27 +2,34 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Svetkavichko.MainPage"
-             BackgroundImageSource="background.png">
+             BackgroundImageSource="svetkavichko.png"
+             Shell.NavBarIsVisible="False">
 
     <ScrollView>
         <VerticalStackLayout
-            Padding="10, 60, 10, 10"
-            Spacing="40">
-            
-            
+            Padding="5, 60, 5, 10">
+            <Image
+                Source="tape.png"
+                HeightRequest="80"
+                HorizontalOptions="End"
+                Margin="0"
+                Rotation="25"/>
+
             <Label
                 Text="Светкавичко"
-                Margin="10"
+                Margin="20"
                 FontAttributes="Bold"
                 FontSize="20"
+                FontFamily="RubikBubbles"
                 HorizontalOptions="Center"
                 TextColor="#C7A200"/>
 
             <Label
                 Text="Избери малка задачка"
                 Style="{StaticResource SubHeadline}"
-                FontFamily="Gridtile"
+                FontFamily="RubikBubbles"
                 TextColor="Black"
+                Margin="0, 20, 0, 50"
                 />
 
             <Button
@@ -30,9 +37,16 @@
                 Text="Начало"
                 Clicked="OnStartClicked"
                 BackgroundColor="#FFD311"
+                BorderColor="Transparent"
                 FontAttributes="Bold"
-                WidthRequest="200"
-                />
+                WidthRequest="200">
+                <Button.Shadow>
+                    <Shadow
+                        Brush="#f0f0f0f0"
+                        Radius="10"
+                        Opacity="0.5"/>
+                </Button.Shadow>
+            </Button>
         </VerticalStackLayout>
     </ScrollView>
 
