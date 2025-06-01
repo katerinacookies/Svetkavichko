@@ -2,19 +2,65 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Svetkavichko.Views.AddChorePage"
-             Title="AddChorePage">
+             Title="AddChorePage"
+             BackgroundImageSource="addchore.png"
+             Shell.NavBarIsVisible="False">
     <VerticalStackLayout>
-        <Label 
-            Text="Добави своя задачка:"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-        <Frame>
+        <Frame
+            HeightRequest="60"
+            WidthRequest="300"
+            BackgroundColor="White"
+            BorderColor="Transparent"
+            Padding="0"
+            Margin="0, 40, 0, 0">
             <Entry
-                Placeholder="Твоята задачка"
+                Margin="0"
+                Placeholder="Добави задачка..."
+                PlaceholderColor="Black"
                 x:Name="ChoreEntry"/>
         </Frame>
         <Button
             Text="Добави"
-            Clicked="OnAddClicked"/>
+            Clicked="OnAddClicked"
+            BackgroundColor="#FFD311"
+            WidthRequest="300"
+            Margin="10"/>
+        <ScrollView
+            HeightRequest="250">
+            <CollectionView ItemsSource="{Binding Chores}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate
+                    >
+                        <Frame 
+                            Padding="0"
+                            HeightRequest="40"
+                            WidthRequest="300"
+                            BackgroundColor="White"
+                            Opacity="0.8"
+                            BorderColor="#FFD311">
+                            <Grid
+                            ColumnDefinitions="*,*"
+                            RowDefinitions="*"
+                            Padding="10">
+                                <Label 
+                                    Grid.Column="0"
+                                    TextColor="Black" 
+                                    VerticalTextAlignment="Center"
+                                    WidthRequest="200"
+                                    Text="{Binding Name}" 
+                                    FontSize="14" />
+                                <Button
+                                    Grid.Column="1"
+                                    Style="{DynamicResource Delete}"
+                                    HeightRequest="1"
+                                    Margin="0"
+                                    HorizontalOptions="End"
+                                    Clicked="OnDeleteClicked"/>
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </ScrollView>
     </VerticalStackLayout>
 </ContentPage>

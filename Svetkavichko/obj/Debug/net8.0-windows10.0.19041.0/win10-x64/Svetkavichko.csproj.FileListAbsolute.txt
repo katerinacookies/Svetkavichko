@@ -144,11 +144,6 @@ D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resi
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
-D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
-D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
-D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
-D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
-D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.AssemblyInfoInputs.cache
@@ -264,3 +259,15 @@ D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resi
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun.scale-100.png
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\teddy.scale-100.png
 D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Gridtile-8Ojnz.ttf
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bolt.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chorebackground.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flowers.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\orangecar.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shape.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\stars.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\stickynote.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tape.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\RubikBubbles-Regular.ttf
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\svetkavichko.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\addchore.scale-100.png
+D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bin.scale-100.png

@@ -2,13 +2,26 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Svetkavichko.Views.ChorePage"
-             Title="ChorePage">
+             Title="ChorePage"
+             BackgroundImageSource="chorebackground.png"
+             Shell.NavBarIsVisible="False">
     <VerticalStackLayout>
         <Label 
             Text="Тук ще видиш своята задачка :3"
+            TextColor="Black"
+            Margin="0, 185, 0, 0"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        <Label
+            x:Name="ChoreDisplay"
+            TextColor="Black"
+            HorizontalOptions="Center"
+            Margin="0, 18, 0, 0"/>
         <Button
-            Text="Случайна задачка"/>
+            Text="Случайна задачка"
+            Margin="0, 65, 0, 0"
+            WidthRequest="150"
+            Clicked="OnRandomClicked"
+            BackgroundColor="Yellow"/>
     </VerticalStackLayout>
 </ContentPage>

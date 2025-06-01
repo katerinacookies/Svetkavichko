@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-06-01T10:35:33.842</Modified>
+      <Modified>2025-06-01T11:30:19.578</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-06-01T10:35:33.391</Modified>
+      <Modified>2025-06-01T11:10:23.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.runtimeconfig.json">
       <PackagePath>Svetkavichko.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Svetkavichko.dll">
       <PackagePath>Svetkavichko.dll</PackagePath>
-      <Modified>2025-06-01T10:35:32.417</Modified>
+      <Modified>2025-06-01T11:30:16.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Svetkavichko.exe</PackagePath>
-      <Modified>2025-06-01T10:35:32.427</Modified>
+      <Modified>2025-06-01T11:30:16.982</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -90,241 +90,249 @@
       <PackagePath>RubikBubbles-Regular.ttf</PackagePath>
       <Modified>2025-06-01T10:12:23.271</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\addchore.scale-100.png">
+      <PackagePath>addchore.scale-100.png</PackagePath>
+      <Modified>2025-06-01T11:10:10.046</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.037</Modified>
+      <Modified>2025-06-01T11:10:10.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.027</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.027</Modified>
+      <Modified>2025-06-01T11:10:10.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.027</Modified>
+      <Modified>2025-06-01T11:10:10.031</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.027</Modified>
+      <Modified>2025-06-01T11:10:10.031</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.031</Modified>
+      <Modified>2025-06-01T11:10:10.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.027</Modified>
+      <Modified>2025-06-01T11:10:10.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.027</Modified>
+      <Modified>2025-06-01T11:10:10.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.027</Modified>
+      <Modified>2025-06-01T11:10:10.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.027</Modified>
+      <Modified>2025-06-01T11:10:10.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.027</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.021</Modified>
+      <Modified>2025-06-01T11:10:10.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\background.scale-100.png">
       <PackagePath>background.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bin.scale-100.png">
+      <PackagePath>bin.scale-100.png</PackagePath>
+      <Modified>2025-06-01T11:10:10.020</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bolt.scale-100.png">
       <PackagePath>bolt.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow.scale-100.png">
       <PackagePath>bow.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.048</Modified>
+      <Modified>2025-06-01T11:10:10.046</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chorebackground.scale-100.png">
       <PackagePath>chorebackground.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flowers.scale-100.png">
       <PackagePath>flowers.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\orangecar.scale-100.png">
       <PackagePath>orangecar.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.048</Modified>
+      <Modified>2025-06-01T11:10:10.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shape.scale-100.png">
       <PackagePath>shape.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.048</Modified>
+      <Modified>2025-06-01T11:10:10.046</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\stars.scale-100.png">
       <PackagePath>stars.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.048</Modified>
+      <Modified>2025-06-01T11:10:10.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\stickynote.scale-100.png">
       <PackagePath>stickynote.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun.scale-100.png">
       <PackagePath>sun.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.048</Modified>
+      <Modified>2025-06-01T11:10:10.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\svetkavichko.scale-100.png">
       <PackagePath>svetkavichko.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.042</Modified>
+      <Modified>2025-06-01T11:10:10.020</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tape.scale-100.png">
       <PackagePath>tape.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.016</Modified>
+      <Modified>2025-06-01T11:10:10.020</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\teddy.scale-100.png">
       <PackagePath>teddy.scale-100.png</PackagePath>
-      <Modified>2025-06-01T10:35:02.010</Modified>
+      <Modified>2025-06-01T11:10:10.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sokol\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

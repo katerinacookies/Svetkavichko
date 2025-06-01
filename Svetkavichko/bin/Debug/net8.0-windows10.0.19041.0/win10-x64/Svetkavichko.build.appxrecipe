@@ -67,6 +67,9 @@
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\RubikBubbles-Regular.ttf">
       <PackagePath>RubikBubbles-Regular.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\addchore.scale-100.png">
+      <PackagePath>addchore.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -207,6 +210,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\background.scale-100.png">
       <PackagePath>background.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bin.scale-100.png">
+      <PackagePath>bin.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Svetkavichko\Svetkavichko\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bolt.scale-100.png">
       <PackagePath>bolt.scale-100.png</PackagePath>
